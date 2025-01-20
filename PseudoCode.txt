@@ -1,0 +1,19 @@
+START
+
+ Step 1:
+Define Variable for capacity, people in line and waitlist
+Initialize ArrayList
+
+ Step 2:
+Create method to populate the ArrayList for every successfully calculation/addition to the storefront - Method name: populateList
+
+Create method to calculate the storefront capacity, available spots and number of people to add - Method name: manageCapacity
+
+ Step 3:
+CALL populateList
+CALL manageCapacity
+
+ Step 4:
+CALL printResults
+
+END
